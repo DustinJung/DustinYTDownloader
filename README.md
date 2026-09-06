@@ -4,6 +4,17 @@
 정보를 제공하는 공개 배포 저장소입니다. 현재 Windows 버전은 **1.6.2**,
 Android 버전은 **1.6.1**입니다.
 
+## 바로 다운로드
+
+- **Windows 일반 사용자:** [설치 프로그램 다운로드](https://github.com/DustinJung/forYoujinApp-releases/releases/download/v1.6.2/DustinYTDownloader-Setup-v1.6.2.exe)
+- **Windows 무설치:** [포터블 EXE 다운로드](https://github.com/DustinJung/forYoujinApp-releases/releases/download/v1.6.2/DustinYTDownloader-Portable-v1.6.2.exe)
+- **Windows 전체 묶음:** [설치형 + 포터블 ZIP 다운로드](https://github.com/DustinJung/forYoujinApp-releases/releases/download/v1.6.2/DustinYTDownloader-v1.6.2-Windows.zip)
+- **Android 10 이상 ARM64:** [Android APK 1.6.1 다운로드](https://github.com/DustinJung/forYoujinApp-releases/releases/download/v1.6.1/DustinYTDownloader-v1.6.1-Android-arm64.apk)
+- **파일 검증:** [SHA-256 체크섬 다운로드](https://github.com/DustinJung/forYoujinApp-releases/releases/download/v1.6.2/DustinYTDownloader-v1.6.2-SHA256.txt)
+
+Windows는 일반적으로 설치 프로그램을 받으면 됩니다. 설치 없이 사용하려면 포터블
+EXE를 선택하세요.
+
 ## 배포 파일
 
 - `DustinYTDownloader-Setup.exe`: Windows 설치 및 기존 버전 제자리 업데이트
