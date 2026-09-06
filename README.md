@@ -6,11 +6,11 @@ Android 버전은 **1.6.6**입니다.
 
 ## 바로 다운로드
 
-- **Windows 일반 사용자:** [설치 프로그램 다운로드](https://github.com/DustinJung/forYoujinApp-releases/releases/download/v1.6.2/DustinYTDownloader-Setup-v1.6.2.exe)
-- **Windows 무설치:** [포터블 EXE 다운로드](https://github.com/DustinJung/forYoujinApp-releases/releases/download/v1.6.2/DustinYTDownloader-Portable-v1.6.2.exe)
-- **Windows 전체 묶음:** [설치형 + 포터블 ZIP 다운로드](https://github.com/DustinJung/forYoujinApp-releases/releases/download/v1.6.2/DustinYTDownloader-v1.6.2-Windows.zip)
-- **Android 10 이상 ARM64:** [Android APK 1.6.6 다운로드](https://github.com/DustinJung/forYoujinApp-releases/releases/download/v1.6.6/DustinYTDownloader-v1.6.6-Android-arm64.apk)
-- **파일 검증:** [SHA-256 체크섬 다운로드](https://github.com/DustinJung/forYoujinApp-releases/releases/download/v1.6.2/DustinYTDownloader-v1.6.2-SHA256.txt)
+- **Windows 일반 사용자:** [설치 프로그램 다운로드](https://github.com/DustinJung/DustinYTDownloader/releases/download/v1.6.2/DustinYTDownloader-Setup-v1.6.2.exe)
+- **Windows 무설치:** [포터블 EXE 다운로드](https://github.com/DustinJung/DustinYTDownloader/releases/download/v1.6.2/DustinYTDownloader-Portable-v1.6.2.exe)
+- **Windows 전체 묶음:** [설치형 + 포터블 ZIP 다운로드](https://github.com/DustinJung/DustinYTDownloader/releases/download/v1.6.2/DustinYTDownloader-v1.6.2-Windows.zip)
+- **Android 10 이상 ARM64:** [Android APK 1.6.6 다운로드](https://github.com/DustinJung/DustinYTDownloader/releases/download/v1.6.6/DustinYTDownloader-v1.6.6-Android-arm64.apk)
+- **파일 검증:** [SHA-256 체크섬 다운로드](https://github.com/DustinJung/DustinYTDownloader/releases/download/v1.6.2/DustinYTDownloader-v1.6.2-SHA256.txt)
 
 Windows는 일반적으로 설치 프로그램을 받으면 됩니다. 설치 없이 사용하려면 포터블
 EXE를 선택하세요.
@@ -81,3 +81,7 @@ Chaquopy, yt-dlp, FFmpegKit, FFmpeg 등 제3자 구성요소는 각자의 라이
 
 소스와 개발 문서는 비공개 `forYoujinApp` 저장소에서 관리합니다. 이 공개 저장소에는
 인증 토큰, 서명 키, 비밀번호, 브라우저 쿠키 또는 개인 정보를 포함하지 않습니다.
+
+이 공개 배포 저장소의 현재 이름은 `DustinJung/DustinYTDownloader`입니다. 기존
+설치 앱의 자동 업데이트 호환성을 위해 매니페스트에는 GitHub가 새 주소로
+리다이렉트하는 이전 저장소 주소가 일부 유지될 수 있습니다.
