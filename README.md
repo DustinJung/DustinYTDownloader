@@ -1,13 +1,14 @@
 # DustinYTDownloader Releases
 
 `DustinYTDownloader`의 Windows 및 Android 직접 배포 파일과 Windows 자동 업데이트
-정보를 제공하는 공개 배포 저장소입니다. 현재 버전은 **1.6.1**입니다.
+정보를 제공하는 공개 배포 저장소입니다. 현재 Windows 버전은 **1.6.2**,
+Android 버전은 **1.6.1**입니다.
 
 ## 배포 파일
 
 - `DustinYTDownloader-Setup.exe`: Windows 설치 및 기존 버전 제자리 업데이트
 - `DustinYTDownloader-Portable.exe`: 설치 없이 실행하는 Windows 포터블 앱
-- `DustinYTDownloader-v1.6.1-Windows.zip`: 설치형·포터블형·안내·라이선스 통합본
+- `DustinYTDownloader-v1.6.2-Windows.zip`: 설치형·포터블형·안내·라이선스 통합본
 - `DustinYTDownloader-v1.6.1-Android-arm64.apk`: Android 10 이상 ARM64 직접 배포판
 - `latest.json`: Windows 앱이 시작할 때 확인하는 최신 버전 및 SHA-256 정보
 
@@ -15,6 +16,10 @@ Windows와 Android 모두 Python을 별도로 설치할 필요가 없습니다. 
 현재 직접 배포 MVP이며 실제 기기별 검증 전에는 프리뷰로 취급합니다.
 1.6.1 APK 서명 인증서 SHA-256은
 `424C3FEEAC971423172D365B7701EEC62F2F6A9DC4DFD7B61BAB4048D131B4F2`입니다.
+
+Windows 1.6.2는 업데이트 안내와 영상 제목을 명시적으로 UTF-8로 처리해 한글
+깨짐을 수정했습니다. 이전 앱도 1.6.2 안내를 읽을 수 있도록 이번 업데이트 문구는
+ASCII 영문으로 제공합니다.
 
 ## 반드시 지켜야 할 이용조건
 
