@@ -79,7 +79,7 @@ License v1.0**을 적용합니다. 오픈소스가 아니며, 명시된 범위 �
 Chaquopy, yt-dlp, FFmpegKit, FFmpeg 등 제3자 구성요소는 각자의 라이선스가 그대로
 적용되며, 이 독점 라이선스는 제3자 라이선스가 직접 부여한 권리를 제한하지 않습니다.
 
-소스와 개발 문서는 비공개 `forYoujinApp` 저장소에서 관리합니다. 이 공개 저장소에는
+소스와 개발 문서는 비공개 `DustinYTDownloader-source` 저장소에서 관리합니다. 이 공개 저장소에는
 인증 토큰, 서명 키, 비밀번호, 브라우저 쿠키 또는 개인 정보를 포함하지 않습니다.
 
 이 공개 배포 저장소의 현재 이름은 `DustinJung/DustinYTDownloader`입니다. 기존
