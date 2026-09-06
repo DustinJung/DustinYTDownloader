@@ -1,0 +1,6 @@
+{
+  "version": "1.6",
+  "downloadUrl": "https://raw.githubusercontent.com/DustinJung/forYoujinApp-releases/main/DustinYTDownloader-Setup.exe",
+  "sha256": "DB3F7B489F3639D76FAF5D7527930C9C34B1F57D5F2217E66BDB928A89294943",
+  "notes": "시작 시 안전한 앱 업데이트 확인, 기존 설치 위치 자동 감지, H.264/AAC 우선 MP4 다운로드가 적용되었습니다."
+}
