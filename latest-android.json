@@ -1,0 +1,7 @@
+{
+  "version": "1.6.5",
+  "versionCode": 165,
+  "downloadUrl": "https://github.com/DustinJung/forYoujinApp-releases/releases/download/v1.6.5/DustinYTDownloader-v1.6.5-Android-arm64.apk",
+  "sha256": "3ABE642F290FBF6287BFF510842A3A223EF2D433290F1AA19872EBE6DD278F82",
+  "notes": "앱 실행 시 Android 업데이트 확인 기능을 추가했습니다. FFmpegKit 필수 런타임 누락으로 MP3 변환이 실패하던 문제를 수정했습니다."
+}
