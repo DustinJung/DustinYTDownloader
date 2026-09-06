@@ -1,0 +1,5 @@
+DustinYTDownloader v1.6.3 SHA-256
+=================================
+
+Android ARM64 APK
+C5584244A8461CECCF2B8EE9238755889F851AF923B09F663DB9AF367FF392B2  DustinYTDownloader-v1.6.3-Android-arm64.apk
